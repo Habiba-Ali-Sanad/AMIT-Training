@@ -1,0 +1,9 @@
+dunder methods is power pretty much all the operators in Python and even some of the built-in functions.
+If you make your own classes in Python, you can use dunder methods for operator overloading,But must have a parameter is a reference
+to the current instance of the class, and is used to access variables that belong to the class.
+It is an object with a set of functions inside it.
+the special methods that start and end with the double underscores,the invocation happens internally from the class on a certain action.
+All classes have a function called __init__(), which is always executed when the class is being initiated 
+and use the __init__() function to assign values to object properties, or other operations that are necessary to do when the object is being created.
+
+
