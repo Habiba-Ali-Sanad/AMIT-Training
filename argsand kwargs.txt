@@ -1,0 +1,13 @@
+* args and **kwargs Special Symbols Used for passing arguments:
+*args the same tuple but **kwargs the same dictionary.
+*args (Non-Keyword Arguments):
+The special syntax *args in function definitions in python is used to pass a variable number of arguments to a function.
+It is used to pass a non-key worded, variable-length argument list. 
+Using the *, the variable that we associate with the * becomes an iterable meaning you can do things like iterate over it,
+run some higher-order functions such as map and filter.
+The syntax is to use the symbol * to take in a variable number of arguments, used with the word args.
+With *args, any number of extra arguments can be tacked on to your current .
+have 2 library use getopt and sys
+**kwargs (Keyword Arguments):
+These make a Python function flexible so it can accept a variable number of arguments and keyword arguments, respectively.
+and this type is dicthionary 
