@@ -1,0 +1,3 @@
+bar plot it is the mean value of the data.
+error bar it is the standard deviation value ( positive and negative value ).
+standard deviation:determines how much the results differ in one group.
